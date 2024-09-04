@@ -1,0 +1,4 @@
+mag/ext
+mag/lvs.report
+mag/*.lvs.spice
+xschem/simulation/tb_*
